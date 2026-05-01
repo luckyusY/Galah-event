@@ -4,10 +4,11 @@ Static event preparation website for Galah Events in Rwanda.
 
 ## Preview
 
-Open `index.html` in a browser, or serve the folder with:
+Install dependencies and start the Vite dev server:
 
 ```powershell
-python -m http.server 4173
+npm install
+npm run dev
 ```
 
-Then visit `http://localhost:4173`.
+Then visit the local URL printed by Vite.
